@@ -1,0 +1,1 @@
+/bin/sh -c "/usr/sbin/nrpe -c /usr/local/nagios/etc/nrpe.cfg -f"
